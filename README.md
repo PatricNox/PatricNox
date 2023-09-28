@@ -43,3 +43,7 @@
 </a>
 
 ---
+
+
+[![An image of @patricnox's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patricnox)](https://holopin.io/@patricnox)
+
